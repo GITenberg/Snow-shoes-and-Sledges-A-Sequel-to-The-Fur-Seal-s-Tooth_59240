@@ -1,5 +1,8 @@
 _repo: Snow-shoes-and-Sledges-A-Sequel-to-The-Fur-Seal-s-Tooth_59240
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59240-h/images/cover.jpg
 creator:
   author:
     agent_name: Munroe, Kirk
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1480
     wikipedia: http://en.wikipedia.org/wiki/Kirk_Munroe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59240#Snow-shoes-and-Sledges-A-Sequel-to-The-Fur-Seal-s-Tooth
 gutenberg_issued: '2019-04-10'
 gutenberg_type: Text
 identifiers:
